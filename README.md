@@ -4,3 +4,5 @@ Mi contador de clics
 Nació después de preguntarme "Cuántos clicks estaré haciendo al jugar TitanQuest??"
 
 Tengo planes de implementarlo en Python para mejor apariencia y comportamiento
+
+Esta versión está implementada en AHK
